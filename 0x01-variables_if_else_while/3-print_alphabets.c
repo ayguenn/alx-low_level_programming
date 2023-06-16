@@ -2,8 +2,8 @@
 
 /**
  *main - Entry point
- *Prints the alphabet without q and e.
- *Return: Always 0 
+ *Prints the alphabet without q and e
+ *Return: Always 0
  */
 int main(void)
 {

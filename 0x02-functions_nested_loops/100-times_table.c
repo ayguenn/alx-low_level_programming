@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * main - Entry point
  *
- * Return: Always 0.
+ * Return: Always 0
  */
-void print_times_table(int n)
+int main(void)
 {
     print_times_table(3);
     _putchar('\n');

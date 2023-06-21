@@ -1,5 +1,12 @@
 #include "main.h"
 
+/**
+ * print_times_table - function to print the times table.
+ * @n: The number to generate the times table for.
+ *
+ * Return: void
+ */
+void print_times_table(int n);
 
 /**
  * main - check the code.
@@ -14,7 +21,7 @@ int main(void)
     _putchar('\n');
     print_times_table(98);
     _putchar('\n');
-    print_times_table(12);  
+    print_times_table(12);
+
     return (0);
 }
-
